@@ -56,3 +56,25 @@ section{
     color: white;
     background-color: #364147;
 }
+
+.form-control{
+    display: block;
+    padding: 6px 12px;
+    border: 1px #a0a0a0 solid;
+    color: #8598a2;
+    line-height: 1.4;
+}
+
+/*************************typography************************/
+.text-light{
+    font-size: 30px;
+    color: #a0a0a0;
+}
+.text-secundary{
+    font-size: 30px;
+    color: #faa541;
+}
+.text-primary{
+    font-size: 16px;
+    color: #364147;
+}
