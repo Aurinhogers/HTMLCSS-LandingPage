@@ -8,14 +8,16 @@ nav { padding: 10px 0; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 /***************************************/
 
+section{
+    display: flex;
+}
+
+/****************utility classes flex containers***********************/
 .container{
     margin: 0 auto 0 auto;
     max-width: 1170px;
 }
 
-section{
-    display: flex;
-}
 .flex{
     display: flex;
 }
@@ -24,4 +26,16 @@ section{
 }
 .flex-one{
     flex: 1;
+}
+
+/****************utility classes positioning/alignment elements***********************/
+
+.align-center{
+    align-items: center;
+}
+.center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
 }
