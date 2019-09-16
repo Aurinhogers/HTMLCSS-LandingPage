@@ -119,3 +119,20 @@ section{
     font-weight: 700;
     letter-spacing: 0.02px;
 }
+
+.profile{
+    margin-left: auto;
+}
+.profile-pic{
+    max-width: 100%;
+    border-radius: 100px;
+}
+.account{
+    text-align: right;
+    padding: 15px;
+    font-size: 18px;
+    color: #364147;
+}
+.account li{
+    font-size: 14px;
+}
