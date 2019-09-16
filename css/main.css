@@ -124,8 +124,12 @@ section{
     margin-left: auto;
 }
 .profile-pic{
-    max-width: 100%;
+    width: 60px;
+    height: 60px;
+}
+.profile-pic img{
     border-radius: 100px;
+    max-width: 100%;
 }
 .account{
     text-align: right;
@@ -133,6 +137,6 @@ section{
     font-size: 18px;
     color: #364147;
 }
-.account li{
+.account a{
     font-size: 14px;
 }
