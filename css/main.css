@@ -240,7 +240,7 @@ section{
     min-height: 400px;
 }
 .full-banner-sidebar{
-    flex: 0 0 41.666667;
+    flex: 0 0 41.666667%;
     background-color: #364147;
     padding: 30px;
     text-transform: uppercase;
