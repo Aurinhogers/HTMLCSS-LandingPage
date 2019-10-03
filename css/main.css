@@ -386,3 +386,9 @@ footer a:hover{
     margin: 30px 0;
     background: linear-gradient(to right, #f05a28,#e80a89 100%);
 }
+.copyright{
+    flex: 0 0 75%;
+    padding: 10px 0;
+    font-size: 12px;
+    align-content: center;
+}
